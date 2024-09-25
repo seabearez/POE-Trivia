@@ -1,0 +1,15 @@
+Category,Question,A),B),C),D),E),F),Correct Letter,Correct Answer,Used?
+Misc,Answer is A,one,two,three,four,five,six,A,one,1
+Misc,Answer is B,one,two,three,four,five,six,B,two,1
+Misc,Answer is C,one,two,three,four,five,six,C,three,1
+Misc,Answer is D,one,two,three,four,five,six,D,four,1
+Misc,Answer is E,one,two,three,four,five,six,E,five,1
+Misc,Answer is F,one,two,three,four,five,six,F,six,1
+Misc,"Answer is A, B",one,two,three,four,five,six,"A, B","one, two",1
+Misc,"Answer is A, B, C",one,two,three,four,five,six,"A, B, C","one, two, three",1
+Misc,"Answer is A, B, C, D",one,two,three,four,five,six,"A, B, C, D","one, two, three, four",1
+Misc,"Answer is A, B, C, D, E",one,two,three,four,five,six,"A, B, C, D, E","one, two, three, four, five",1
+Misc,"Answer is A, B, C, D, E, F",one,two,three,four,five,six,"A, B, C, D, E, F","one, two, three, four, five, six",1
+Misc,"Answer is A, C",one,two,three,four,five,six,"A, C","one, three",1
+Misc,"Answer is D, E",one,two,three,four,five,six,"D, E","four, five",1
+Misc,"Answer is B, F",one,two,three,four,five,six,"B, F","two, six",1
